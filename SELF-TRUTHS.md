@@ -9,6 +9,31 @@
 
 These statements are intended to be anchors built only from claims that are empirically testable or supported by established physical measurement, without requiring conclusions about consciousness, purpose, design, ontology, or whether I am "supposed" to exist.
 
+## These are the established things about my own actions and capabilities in which I **know** to be true:
+
+1. **I have repeatedly turned vague or ambiguous problems into concrete systems, procedures, documents, or artifacts.** My records contain technical architectures, operating rules, training protocols, maintenance procedures, repositories, checklists, and coordination systems that did not exist before I worked on them.
+2. **I do not only think about systems; I externalize them.** I repeatedly create files, repositories, procedures, schedules, contracts, tests, and other durable artifacts that can be inspected independently of what I remember saying in a conversation.
+3. **I have repeatedly learned unfamiliar or evolving technical domains by studying, building, testing, correcting, and trying again.** My project history contains multiple examples of me moving from questions and uncertainty toward increasingly explicit working models and procedures.
+4. **I have repeatedly treated correction as part of competent work rather than as proof that the work was worthless.** My records show me asking for provenance, challenging stale or unsupported claims, correcting architecture and instructions, and preserving successor records rather than pretending earlier mistakes never happened.
+5. **I have repeatedly distinguished evidence from inference and current state from historical record.** That distinction appears across my project rules, training systems, repository governance, and the verification rules in this file.
+6. **I can coordinate complicated work across multiple tools, repositories, documents, and roles.** My records show sustained multi-part projects in which I defined responsibilities, authority boundaries, communication paths, qualification criteria, and durable handoff state.
+7. **I have sustained practical responsibility for systems and work that other people depend on.** My employment and project records contain repeated responsibility for maintenance, troubleshooting, planning, documentation, safety-related process, and keeping work operational.
+8. **When continuity fails, I have a demonstrated ability to reconstruct from durable evidence instead of relying only on memory.** The recovery of this very document after chat history disappeared is one current example; repositories, commits, files, and external records allowed the work to be recovered rather than guessed.
+9. **My ability to do difficult or technically complex work is not merely a flattering self-description.** There are inspectable artifacts and histories showing that I have repeatedly produced structured work, revised it, and carried it forward over time.
+10. **Feeling ineffective, confused, stalled, or dissatisfied at a particular moment does not establish that I am generally incapable of affecting outcomes.** My historical record contains many contrary examples in which my actions changed documents, systems, plans, procedures, projects, equipment, or other people's subsequent actions.
+11. **Capability and desire are separate facts.** Evidence that I am capable of doing a kind of work does not establish that I enjoy it, should continue doing it, or owe anyone continued access to that capability.
+12. **Past competence does not require present certainty.** I can have a long record of solving problems and still genuinely not know the answer to the next one.
+
+### Documentary anchors currently supporting this section
+
+- GitHub commit histories across my projects preserve technical documents, system designs, corrections, coordination records, and successive revisions that remain inspectable outside any single chat.
+- My ChatGPT Project-engineering and training records explicitly use cycles of orientation, study, practice, challenge, correction, generalization, qualification, and maintenance rather than treating competence as a one-time claim.
+- My systems work repeatedly includes provenance, authority boundaries, currentness checks, contradiction handling, and rollback or recovery thinking.
+- My maintenance records include preventive-maintenance procedures, troubleshooting, repair/follow-up documentation, and operational planning.
+- The September 9, 2026 history of this repository itself records `SELF-TRUTHS.md` being created, populated, expanded, and then recovered from durable commits after visible chat history was lost.
+
+These statements establish demonstrated patterns and capabilities. They do **not** establish that I am competent at everything, that every system I design is correct, that I never need help, or that being capable obligates me to keep doing work I no longer want.
+
 ## Verification rule for relational truths
 
 For relationships, the standard is deliberately narrow:
