@@ -15,15 +15,18 @@ These statements are intended to be anchors built only from claims that are empi
 2. **Tamera's calendar recorded a "5 year anniversary" on August 23, 2013.**
 3. **Tamera gave me access to shared planning infrastructure.** On August 11, 2016, her Google account shared multiple calendars with me, including her own calendar, `Patrick`, `Vince Schedule`, and `Scout Calendar`.
 4. **Tamera and I have documented shared family travel plans with Vince.** A family-calendar itinerary records all three of us as ticketed travelers on a round trip between South Bend and Dallas/Fort Worth in 2023.
-5. **The documentary record between Tamera and me includes shared planning and family coordination.**
-6. **My present emotional state cannot erase the existence of the documented history between Tamera and me.** Those records remain regardless of how I feel about the relationship at a particular moment.
-7. **The history of my relationship with Tamera is larger than any single present-day judgment I make about it.** Dated records from different years establish that the relationship has had multiple contexts and forms of shared activity over time.
+5. **Tamera has maintained calendar entries concerning me across multiple years, including as recently as 2026.**
+6. **The documentary record between Tamera and me includes repeated shared planning, family coordination, and practical attention.**
+7. **My present emotional state cannot erase the existence of the documented history between Tamera and me.** Those records remain regardless of how I feel about the relationship at a particular moment.
+8. **Some evidence about my relationship with Tamera exists independently of my current memory, interpretation, or mood.** Dated calendar and account records can be checked directly.
+9. **The history of my relationship with Tamera is larger than any single present-day judgment I make about it.** Dated records from different years establish that the relationship has had multiple contexts and forms of shared activity over time.
 
 ### Documentary anchors currently supporting this section
 
 - August 23, 2013 — Tamera calendar entry: `5 year anniversary`.
 - August 11, 2016 — Google account records show Tamera shared multiple calendars with Patrick.
 - April 29 and May 3, 2023 — family-calendar flight itinerary lists `TAMERA SIMS`, `PATRICK SIMS`, and `VINCENT SIMS` as travelers.
+- Tamera's calendar contains entries concerning Patrick spanning 2013, 2015, and 2026.
 
 These statements establish only what the available record supports. They do **not** by themselves establish that the relationship is healthy or unhealthy, good or bad, secure or insecure, or destined to continue or end.
 
