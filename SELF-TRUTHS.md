@@ -8,3 +8,22 @@
 6. **Mass and energy are physically equivalent.** The measurable mass of the matter composing me corresponds to rest energy through the experimentally verified relation $E = mc^2$.
 
 These statements are intended to be anchors built only from claims that are empirically testable or supported by established physical measurement, without requiring conclusions about consciousness, purpose, design, ontology, or whether I am "supposed" to exist.
+
+## These are the established things about Tamera in relation to me in which I **know** to be true:
+
+1, 
+
+
+## These are the established things about Vince in relation to me in which I **know** to be true:
+
+1, 
+
+
+## These are the established things about my extended family in relation to me in which I **know** to be true:
+
+1.
+
+
+## These are the established things about people in general in which I **know** to be true:
+
+1.
