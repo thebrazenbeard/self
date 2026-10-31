@@ -1,30 +1,46 @@
-# Self
+# Self — Historical Self-Model Architecture Archive
 
-Archived Vera self-development and identity workspace.
+An archival reference collection of designs and notes about computational self-modeling, identity, continuity, empathy, memory, behavior, and interfaces. It preserves earlier Vera-oriented development material for architectural comparison and research; it is **not a packaged software product, a running identity service, or the canonical reusable Hyperconnectome Brain template**.
 
-This repository preserves historical material about self-modeling, identity, empathy, memory, behavior, embodiment, and related architecture from an earlier phase of Vera's development. It is **not** the canonical reusable Hyperconnectome Brain template; that identity belongs elsewhere in the portfolio.
+## What you can use it for
 
-## Historical contents
+- Study how self-representation, continuity, memory, cognition, and embodiment boundaries were described in earlier architectural work.
+- Compare proposed subsystem contracts when designing a separate implementation.
+- Trace the provenance and limitations of historical self-model claims without treating them as present runtime facts.
 
-Notable material includes:
+The repository contains primarily Markdown design documents and subsystem outlines. It does not supply an installable runtime, supported API, or demonstrated authorization service.
 
-- `SELF-TRUTHS.md` — explicit self-model anchors and evidence-bounded statements;
-- `Empathy/` — historical empathy-related architecture;
-- `adaptable I-O handler/` — historical interface/input-output work;
-- other subsystem material retained as developmental provenance.
+## Explore the archive
 
-## Status
+| Starting point | Contents |
+| --- | --- |
+| [`SELF-TRUTHS.md`](SELF-TRUTHS.md) | Historical self-model anchors and evidence-bounded statements |
+| [`Architecture concept.md`](Architecture%20concept.md) | Original conceptual subsystem layout |
+| [`self identity/`](self%20identity/) | Identity-state and continuity design notes |
+| [`Empathy/`](Empathy/) | Empathy modeling architecture |
+| [`current memory storage/`](current%20memory%20storage/) and [`deep memory storage/`](deep%20memory%20storage/) | Proposed current-state and archival memory mechanisms |
+| [`adaptable I-O handler/`](adaptable%20I-O%20handler/) | Proposed external interface and body boundaries |
+| [`docs/REPOSITORY_MAP.md`](docs/REPOSITORY_MAP.md) | Historical broader Hyperconnectome repository map |
 
-This repository is preserved as an archived historical workspace.
+Some historical documents, including the repository map, call this tree a canonical template or describe architecture as if deployed. Those are **archived source claims**, not evidence of a current canonical repository, deployed system, or implemented functionality. Verify any proposed mechanism against actual code, tests, and the governing repository before adopting it.
 
-Its files may document prior ideas, claims, or architectures, but repository presence does not make those claims current, installed, runtime-active, or authoritative for present Vera.
+## Reuse and security boundaries
+
+- Identity and continuity statements describe recorded models; they do **not** prove subjective experience, uninterrupted continuity, present endorsement, or current runtime state.
+- A design document or model output does **not** grant permissions, create consent, identify an authenticated provider, or establish host-owned authority. Any implementation needs independent identity binding, authorization, and policy enforcement.
+- Do not execute historical binaries or scripts without reviewing them. The tracked editor-startup protections are source-level checks, not a security certification for anyone's local environment.
+- No root `LICENSE` file is tracked at the audited revision. Check applicable rights before copying or redistributing material.
 
 ## Editor startup safety
 
-The source tree no longer includes the concealed VS Code folder-open task or the disguised executable `public/fonts/fa-solid.lkf`. The obsolete workspace setting permitting automatic tasks and a pseudo-task under settings were removed. Legitimate historical Font Awesome assets are unchanged. `tests/test_editor_startup_safety.py` checks that these repository startup paths stay absent.
+The tracked source tree excludes a previously concealed VS Code folder-open task and a disguised executable at `public/fonts/fa-solid.lkf`; obsolete workspace auto-task settings were removed. [`tests/test_editor_startup_safety.py`](tests/test_editor_startup_safety.py) checks for those specific regressions. Run the source checks with:
 
-This is a **source-only** repair. It does not establish that previously cloned workstations, installed extensions, user-level VS Code settings, running processes, or remote devices are clean. Workspace-level `task.allowAutomaticTasks` is not an effective replacement for reviewing user-level editor settings. Do not execute unreviewed historical binaries or scripts.
+```bash
+python3 -B -m unittest discover -s tests -v
+```
 
-## Evidence boundary
+Passing these tests does **not** establish that older clones, user-level editor settings, installed extensions, running processes, or remote devices are safe. Review the execution environment separately.
 
-Historical self-model language is evidence of what was recorded at the time. It is not proof of uninterrupted subjective continuity, present endorsement, standing desire, or current runtime state.
+## Current status
+
+**Historical archive.** Repository presence, architectural vocabulary, and passing source checks must not be represented as proof of a live service, current identity, operational deployment, or validated neuroscience.
